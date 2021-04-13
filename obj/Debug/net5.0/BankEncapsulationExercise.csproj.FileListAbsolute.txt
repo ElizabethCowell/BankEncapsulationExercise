@@ -1,0 +1,16 @@
+C:\Users\eholy\repos\BankEncapsulationExercise\bin\Debug\net5.0\BankEncapsulationExercise.exe
+C:\Users\eholy\repos\BankEncapsulationExercise\bin\Debug\net5.0\BankEncapsulationExercise.deps.json
+C:\Users\eholy\repos\BankEncapsulationExercise\bin\Debug\net5.0\BankEncapsulationExercise.runtimeconfig.json
+C:\Users\eholy\repos\BankEncapsulationExercise\bin\Debug\net5.0\BankEncapsulationExercise.runtimeconfig.dev.json
+C:\Users\eholy\repos\BankEncapsulationExercise\bin\Debug\net5.0\BankEncapsulationExercise.dll
+C:\Users\eholy\repos\BankEncapsulationExercise\bin\Debug\net5.0\ref\BankEncapsulationExercise.dll
+C:\Users\eholy\repos\BankEncapsulationExercise\bin\Debug\net5.0\BankEncapsulationExercise.pdb
+C:\Users\eholy\repos\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.csprojAssemblyReference.cache
+C:\Users\eholy\repos\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eholy\repos\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.AssemblyInfoInputs.cache
+C:\Users\eholy\repos\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.AssemblyInfo.cs
+C:\Users\eholy\repos\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.csproj.CoreCompileInputs.cache
+C:\Users\eholy\repos\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.dll
+C:\Users\eholy\repos\BankEncapsulationExercise\obj\Debug\net5.0\ref\BankEncapsulationExercise.dll
+C:\Users\eholy\repos\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.pdb
+C:\Users\eholy\repos\BankEncapsulationExercise\obj\Debug\net5.0\BankEncapsulationExercise.genruntimeconfig.cache
